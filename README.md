@@ -1,51 +1,121 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+A IA e a Arte | O Encontro de Duas Revoluções 🎨
 
-## 🚀 Introdução
+📕 Descrição
 
-> Woooow! Look at this 👀
+O roteiro da cena de um filme de ação, totalmente escrito pela Inteligência Artificial
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
+🤖 Tecnologias Utilizadas
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Gemini Google
 
-### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+📝 Processo de Criação
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Sugeri a criação do roteiro de um filme com uma das cenas se passando em uma favela do Rio de Janeiro. Além de sugerir o local, sugeri os personagens e a IA se encarregou com a criação de todo o resto.  
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+🎯Resultados
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O roteiro segue abaixo como a última parte do trabalho 
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+🤔Reflexão 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+impressiona a perfeição que uma IA é capaz de criar o roteiro da cena de um filme utilizando um prompt simples e com menos de três linhas
 
-### Exemplos e Insigths
+📓O Roteiro
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Morro do Dendê: Cena Completa com Mais Ação e Drama
+EXT. MORRO DO DENDÊ - NOITE
 
-## Links Interessantes
+O Morro do Dendê pulsa com a vida noturna da comunidade, mas a noite toma um rumo sombrio quando Zé Cachoeira, um traficante cruel, invade a casa de Madalena, uma mãe solo desesperada.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+INT. CASA DE MADALENA - NOITE
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Zé Cachoeira segura Madalena pelo braço com força, a arma apontada para sua cabeça.
+
+ZÉ CACHOEIRA
+
+(Com voz rouca e ameaçadora)
+Chegou a sua hora, Madalena. Pague sua dívida ou...
+
+MADALENA
+
+(Com a voz fraca e suplicante)
+Por favor, Zé, eu imploro! Meu filho está doente, eu preciso...
+
+ZÉ CACHOEIRA
+
+(Interrompendo com um sorriso sádico)
+Desculpas não me interessam. Agora, pague!
+
+Antes que Zé Cachoeira possa puxar o gatilho, a porta da casa é chutada com força.
+
+INT. CASA DE MADALENA - NOITE (CONT'D)
+
+Entra na casa o Sargento Alves, um policial determinado, com a arma em punho.
+
+SARGENTO ALVES
+
+(Com voz grave e autoritária)
+Parou por aí, Zé Cachoeira! Solte a mulher agora!
+
+Zé Cachoeira se vira para o policial, com um olhar arrogante.
+
+ZÉ CACHOEIRA
+
+(Com tom desafiador)
+E quem é você pra me dar ordens, hein, sargento? Aqui no meu morro, quem manda sou eu!
+
+SARGENTO ALVES
+
+(Com um sorriso irônico)
+Engano seu, Zé Cachoeira. Aqui no Rio de Janeiro, quem manda é a lei. E a lei diz que você está preso por tentativa de assassinato.
+
+Sargento Alves aponta a arma para Zé Cachoeira, que hesita por um momento. Mas antes que ele se renda, dispara contra o policial.
+
+MADALENA
+
+(Gritando de desespero)
+
+NÃOOO!
+
+O tiro atinge o ombro do Sargento Alves, que cambaleia para trás, mas se mantém de pé.
+
+SARGENTO ALVES
+
+(Com dor, mas voz firme)
+Isso não vai te salvar, Zé Cachoeira!
+
+Enfurecido, Zé Cachoeira dispara novamente, mas o Sargento Alves revida, acertando a perna do traficante. Zé Cachoeira cai no chão, gritando de dor.
+
+SARGENTO ALVES
+
+(Com autoridade)
+Acabou, Zé Cachoeira. Você está preso.
+
+O Sargento Alves, mesmo ferido, algema Zé Cachoeira, que ainda tenta resistir. Madalena corre para o lado do policial, aflita.
+
+MADALENA
+
+(Com a voz tremendo)
+O senhor está ferido! Eu preciso te levar para o hospital!
+
+SARGENTO ALVES
+
+(Com um sorriso tranquilizador)
+Não se preocupe, Madalena. Estou bem. A ambulância já está chegando.
+
+A ambulância chega com sirenes ligadas e os paramédicos atendem o Sargento Alves e Zé Cachoeira. Madalena observa tudo com alívio e gratidão.
+
+MADALENA
+
+(Com a voz emocionada)
+Obrigado, sargento. Você salvou a minha vida e a do meu filho, mais uma vez.
+
+SARGENTO ALVES
+
+(Com um sorriso sincero)
+Apenas cumprindo meu dever, Madalena. Mas cuidado, a vida aqui no morro é perigosa. É importante denunciar qualquer atividade criminosa.
+
+Madalena acena com a cabeça, concordando com o Sargento Alves. Ela sabe que a vida no Morro do Dendê é dura, mas também sabe que existem pessoas boas que lutam para fazer a diferença, como o Sargento Alves, que mesmo ferido, não hesitou em proteger os outros.
